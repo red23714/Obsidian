@@ -1,0 +1,16 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "hsl(12, 107%, 32%)",
+      "directory": "2024/Events"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}
