@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/Programming/C/База/Типы данных.md",
+                "file": "2024/Programming/C/База/Ввод и вывод данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типы данных"
+              "title": "Ввод и вывод данных"
             }
           }
         ]
@@ -165,14 +165,14 @@
   },
   "active": "7cc434c4bfb87179",
   "lastOpenFiles": [
+    "2024/Programming/C/База/Массивы.md",
     "2024/Programming/C/База/Указатели.md",
+    "2024/Programming/C/База/Типы данных.md",
     "2024/Programming/C/База/Строки.md",
+    "2024/Programming/C/База/Ввод и вывод данных.md",
+    "2024/Programming/C/База/Побитовые операции.md",
     "2024/Programming/Идеи/Игра про ПК клуб.md",
     "2024/Programming/Идеи",
-    "2024/Programming/C/База/Массивы.md",
-    "2024/Programming/C/База/Ввод и вывод данных.md",
-    "2024/Programming/C/База/Типы данных.md",
-    "2024/Programming/C/База/Побитовые операции.md",
     "2024/Programming/C/Задания/Вывод размера типов данных.md",
     "2024/Programming/C/Задания/Вывод рисунка в консоль.md",
     "2024/Programming/C/Задания",
