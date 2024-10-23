@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path: 2024/Programming/C  ",
+      "query": "path: 2024/Programming/C/База  ",
       "color": {
         "a": 1,
         "rgb": 6058198
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 10631081
       }
+    },
+    {
+      "query": "path:2024/Programming/C/Задания  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 12.0790020790021,
   "linkStrength": 0.670478170478171,
   "linkDistance": 199,
-  "scale": 0.8834751649524286,
+  "scale": 0.7717866213072696,
   "close": true
 }
